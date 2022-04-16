@@ -5,6 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to CI-CD Learning");
+		System.out.println("check2");
 
 	}
 
